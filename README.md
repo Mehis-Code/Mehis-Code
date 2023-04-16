@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="500" src="https://images.unsplash.com/photo-1555890754-600878fd7311?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1736&q=80">
 
-📖 - Computer Bachelor's Degree student ( 126/180 points )
+📖 - Computer Bachelor's Degree student (126/180 points)
 
 ⚒️ - Languages I've used, and improving on: Python, C++, JS, HTML, CSS
 
