@@ -1,6 +1,6 @@
 ### 🌌 &#x2022;Mehis-Code&#x2022; 🌌
 
-<img align="right" alt="Coding" width="350" src="https://images.unsplash.com/photo-1555890754-600878fd7311?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1736&q=80">
+<img align="right" alt="Coding" width="200" padding-right="200" src="https://th.bing.com/th/id/OIG.muTfXEGDZdRoTGOa1vfY?pid=ImgGn"> 
 
 📖 - Computer Bachelor's Degree student (126/180 points)
 
