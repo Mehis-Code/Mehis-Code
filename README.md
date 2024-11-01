@@ -1,8 +1,8 @@
 ### 🌌 &#x2022;Mehis-Code&#x2022; 🌌
 
-📖 - Computer Bachelor's Degree student (151/180 points)
+📖 - Computer Science Master's Degree student (38/120 points)
 
-⚒️ - Languages and frameworks: Python, C++, JS, React, HTML, CSS
+⚒️ - Languages and frameworks: Java, JS, React, anything
 
 ⏰ - Coursework and my own projects here (😄Trying to find the time for them)
 
