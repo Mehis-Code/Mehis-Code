@@ -1,6 +1,6 @@
 ### 🌌 &#x2022;Mehis-Code&#x2022; 🌌
 
-📖 - Computer Science Bachelor degree completed, now a Master's Degree student (38/120 points)
+📖 - Computer Science Bachelor degree completed, now a Master's Degree student (58/120 points)
 
 ⚒️ - Languages and frameworks: Java, JS, React, anything
 
