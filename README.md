@@ -1,4 +1,4 @@
-![githubBanner](https://github.com/user-attachments/assets/302368ee-dccb-4c77-944a-5cd941dba3f5)
+![github](https://github.com/user-attachments/assets/765ab39e-bfa6-411b-a41a-061ffde2e1b6)
 # Welcome to the pond
 
 📖 - Computer Science Masters student, Starting to work on thesis soon.
